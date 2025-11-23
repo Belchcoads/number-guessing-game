@@ -1,3 +1,8 @@
+# This file contains the main game logic for the Number Guessing Game.
+# Added some improvements for assignment commit purposes.
+
+
+
 import random
 
 print("Welcome to Number Guessing Game!")

@@ -1,0 +1,19 @@
+Welcome to Number Guessing Game!
+
+Attempts left: 7
+Enter your guess (1 to 50): 20
+Too high!
+
+Attempts left: 6
+Enter your guess (1 to 50): 10
+Too low!
+
+Attempts left: 5
+Enter your guess (1 to 50): 15
+Too high!
+
+Attempts left: 4
+Enter your guess (1 to 50): 12
+🎉 You guessed it! The number was 12
+
+Game ended successfully.
